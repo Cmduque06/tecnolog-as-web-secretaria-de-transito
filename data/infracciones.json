@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "fecha": "2024-02-12",
+    "descripcion": "Exceso de velocidad en zona escolar",
+    "valor": 650000.0,
+    "vehiculoId": 1,
+    "tipoDeteccion": "CAMARA",
+    "severidad": "GRAVE"
+  },
+  {
+    "id": 2,
+    "fecha": "2024-03-01",
+    "descripcion": "Estacionar en sitio prohibido",
+    "valor": 220000.0,
+    "vehiculoId": 1,
+    "tipoDeteccion": "AGENTE",
+    "severidad": "LEVE"
+  },
+  {
+    "id": 3,
+    "fecha": "2024-03-18",
+    "descripcion": "No respetar semáforo en rojo",
+    "valor": 520000.0,
+    "vehiculoId": 3,
+    "tipoDeteccion": "CAMARA",
+    "severidad": "MEDIA"
+  },
+  {
+    "id": 4,
+    "fecha": "2024-04-06",
+    "descripcion": "Conducir sin revisión técnico-mecánica",
+    "valor": 480000.0,
+    "vehiculoId": 4,
+    "tipoDeteccion": "AGENTE",
+    "severidad": "MEDIA"
+  },
+  {
+    "id": 5,
+    "fecha": "2024-04-23",
+    "descripcion": "Circular por carril exclusivo",
+    "valor": 300000.0,
+    "vehiculoId": 5,
+    "tipoDeteccion": "CAMARA",
+    "severidad": "LEVE"
+  },
+  {
+    "id": 6,
+    "fecha": "2024-05-10",
+    "descripcion": "Adelantar en doble línea continua",
+    "valor": 700000.0,
+    "vehiculoId": 4,
+    "tipoDeteccion": "AGENTE",
+    "severidad": "GRAVE"
+  }
+]

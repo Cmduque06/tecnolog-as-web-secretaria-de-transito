@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SecretariaTransitoApplication<secretaria-transito>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.transito.SecretariaTransitoApplication",
+            "projectName": "secretaria-transito",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

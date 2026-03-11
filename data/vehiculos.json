@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "placa": "ABC123",
+    "marca": "Mazda",
+    "fechaMatricula": "2021-03-15",
+    "tipo": "AUTOMOVIL",
+    "propietarioId": 1
+  },
+  {
+    "id": 2,
+    "placa": "MOT778",
+    "marca": "Yamaha",
+    "fechaMatricula": "2020-11-20",
+    "tipo": "MOTO",
+    "propietarioId": 3
+  },
+  {
+    "id": 3,
+    "placa": "TRK901",
+    "marca": "Chevrolet",
+    "fechaMatricula": "2019-08-10",
+    "tipo": "CARRO_PESADO",
+    "propietarioId": 2
+  },
+  {
+    "id": 4,
+    "placa": "RPD554",
+    "marca": "Renault",
+    "fechaMatricula": "2022-01-05",
+    "tipo": "AUTOMOVIL",
+    "propietarioId": 4
+  },
+  {
+    "id": 5,
+    "placa": "MNS332",
+    "marca": "Suzuki",
+    "fechaMatricula": "2023-06-12",
+    "tipo": "MOTO",
+    "propietarioId": 4
+  }
+]
