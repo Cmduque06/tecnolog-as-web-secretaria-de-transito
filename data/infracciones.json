@@ -1,56 +1,73 @@
-[
-  {
-    "id": 1,
-    "fecha": "2024-02-12",
-    "descripcion": "Exceso de velocidad en zona escolar",
-    "valor": 650000.0,
-    "vehiculoId": 1,
-    "tipoDeteccion": "CAMARA",
-    "severidad": "GRAVE"
-  },
-  {
-    "id": 2,
-    "fecha": "2024-03-01",
-    "descripcion": "Estacionar en sitio prohibido",
-    "valor": 220000.0,
-    "vehiculoId": 1,
-    "tipoDeteccion": "AGENTE",
-    "severidad": "LEVE"
-  },
-  {
-    "id": 3,
-    "fecha": "2024-03-18",
-    "descripcion": "No respetar semáforo en rojo",
-    "valor": 520000.0,
-    "vehiculoId": 3,
-    "tipoDeteccion": "CAMARA",
-    "severidad": "MEDIA"
-  },
-  {
-    "id": 4,
-    "fecha": "2024-04-06",
-    "descripcion": "Conducir sin revisión técnico-mecánica",
-    "valor": 480000.0,
-    "vehiculoId": 4,
-    "tipoDeteccion": "AGENTE",
-    "severidad": "MEDIA"
-  },
-  {
-    "id": 5,
-    "fecha": "2024-04-23",
-    "descripcion": "Circular por carril exclusivo",
-    "valor": 300000.0,
-    "vehiculoId": 5,
-    "tipoDeteccion": "CAMARA",
-    "severidad": "LEVE"
-  },
-  {
-    "id": 6,
-    "fecha": "2024-05-10",
-    "descripcion": "Adelantar en doble línea continua",
-    "valor": 700000.0,
-    "vehiculoId": 4,
-    "tipoDeteccion": "AGENTE",
-    "severidad": "GRAVE"
-  }
-]
+[ {
+  "id" : 1,
+  "fecha" : "2024-02-12",
+  "descripcion" : "Exceso de velocidad en zona escolar",
+  "valor" : 650000.0,
+  "vehiculoId" : 1,
+  "tipoDeteccion" : "CAMARA",
+  "severidad" : "GRAVE",
+  "pagada" : false
+}, {
+  "id" : 3,
+  "fecha" : "2024-03-18",
+  "descripcion" : "No respetar semáforo en rojo",
+  "valor" : 520000.0,
+  "vehiculoId" : 3,
+  "tipoDeteccion" : "CAMARA",
+  "severidad" : "MEDIA",
+  "pagada" : false
+}, {
+  "id" : 7,
+  "fecha" : "2025-03-11",
+  "descripcion" : "Estacionar en sitio prohibido",
+  "valor" : 250000.0,
+  "vehiculoId" : 6,
+  "tipoDeteccion" : "AGENTE",
+  "severidad" : "LEVE",
+  "pagada" : false
+}, {
+  "id" : 4,
+  "fecha" : "2024-04-06",
+  "descripcion" : "Conducir sin revisión técnico-mecánica",
+  "valor" : 480000.0,
+  "vehiculoId" : 4,
+  "tipoDeteccion" : "AGENTE",
+  "severidad" : "MEDIA",
+  "pagada" : true
+}, {
+  "id" : 11,
+  "fecha" : "2025-09-06",
+  "descripcion" : "Conducir sin revisión técnico-mecánica",
+  "valor" : 480000.0,
+  "vehiculoId" : 5,
+  "tipoDeteccion" : "AGENTE",
+  "severidad" : "MEDIA",
+  "pagada" : false
+}, {
+  "id" : 12,
+  "fecha" : "2026-03-11",
+  "descripcion" : "Exceso de velocidad en  zona escolar",
+  "valor" : 650000.0,
+  "vehiculoId" : 4,
+  "tipoDeteccion" : "CAMARA",
+  "severidad" : "GRAVE",
+  "pagada" : false
+}, {
+  "id" : 13,
+  "fecha" : "2025-05-10",
+  "descripcion" : "Adelantar en doble línea continua",
+  "valor" : 700000.0,
+  "vehiculoId" : 4,
+  "tipoDeteccion" : "CAMARA",
+  "severidad" : "GRAVE",
+  "pagada" : false
+}, {
+  "id" : 10,
+  "fecha" : "2025-03-01",
+  "descripcion" : "Estacionar en sitio prohibido",
+  "valor" : 220000.0,
+  "vehiculoId" : 1,
+  "tipoDeteccion" : "AGENTE",
+  "severidad" : "LEVE",
+  "pagada" : true
+} ]

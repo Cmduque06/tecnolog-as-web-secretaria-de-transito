@@ -8,7 +8,7 @@
 <body>
 <div class="container mt-4">
     <h1>Secretaría de Tránsito</h1>
-    <p>Sistema académico MVC para gestión de propietarios, vehículos e infracciones.</p>
+    <p>Sistema para gestión de propietarios, vehículos e infracciones.</p>
     <div class="list-group">
         <a class="list-group-item list-group-item-action" href="/propietarios">Propietarios</a>
         <a class="list-group-item list-group-item-action" href="/vehiculos">Vehículos</a>

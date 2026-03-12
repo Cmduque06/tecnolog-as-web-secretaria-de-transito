@@ -5,6 +5,11 @@
 <head>
     <title>Vehículos</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { background: linear-gradient(120deg, #eef4ff, #f7f9fc); }
+        .card-soft { border: 0; border-radius: 1rem; box-shadow: 0 8px 25px rgba(0,0,0,.08); }
+        .table thead th { background: #0d6efd; color: #fff; }
+    </style>
 </head>
 <body>
 <div class="container mt-4">

@@ -1,30 +1,25 @@
-[
-  {
-    "id": 1,
-    "identificacion": "1020304050",
-    "nombre": "Laura",
-    "direccion": "Calle 10 # 20-30",
-    "puntosLicencia": 14
-  },
-  {
-    "id": 2,
-    "identificacion": "900123456-7",
-    "nombre": "Transportes Andinos",
-    "direccion": "Av. Industrial 45-60",
-    "puntosLicencia": 16
-  },
-  {
-    "id": 3,
-    "identificacion": "1122334455",
-    "nombre": "Carlos",
-    "direccion": "Cra. 50 # 80-12",
-    "puntosLicencia": 20
-  },
-  {
-    "id": 4,
-    "identificacion": "800987654-1",
-    "nombre": "Mensajería Express",
-    "direccion": "Zona Franca Bodega 7",
-    "puntosLicencia": 8
-  }
-]
+[ {
+  "id" : 2,
+  "identificacion" : "900123456-7",
+  "nombre" : "Transportes Andinos",
+  "direccion" : "Av. Industrial 45-60",
+  "puntosLicencia" : 16
+}, {
+  "id" : 3,
+  "identificacion" : "1122334455",
+  "nombre" : "Carlos",
+  "direccion" : "Cra. 50 # 80-12",
+  "puntosLicencia" : 20
+}, {
+  "id" : 4,
+  "identificacion" : "800987654-1",
+  "nombre" : "Mensajería Express",
+  "direccion" : "Zona Franca Bodega 7",
+  "puntosLicencia" : 4
+}, {
+  "id" : 1,
+  "identificacion" : "1020304050",
+  "nombre" : "Laura",
+  "direccion" : "Calle 10 # 20-30",
+  "puntosLicencia" : 16
+} ]

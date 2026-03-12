@@ -9,6 +9,8 @@ Proyecto para **Programación Distribuida y Paralela**
 - Sistema de puntos de licencia
 - Persistencia simple con `ArrayList` + archivos JSON (sin base de datos)
 
+https://lucid.app/lucidchart/e6b6008c-6604-4d28-aa49-b807a467e9ee/edit?viewport_loc=-720%2C1402%2C3936%2C1580%2CHWEp-vi-RSFO&invitationId=inv_cc1de025-2afb-492d-8982-6d48e4aeda24
+
 ## Estructura del proyecto
 
 ```text
